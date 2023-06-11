@@ -1,0 +1,3 @@
+Daftar Pokemon yang memiliki kekuatan predikat lemah C 
+waitmelon 400 
+waitpink 388 

@@ -1,0 +1,9 @@
+pkm
+
+pikachu 750
+chormeleon 893
+waitmelon 400
+waitred 770
+waityellow 690
+waitpink 388
+bublepokemon 892
